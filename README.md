@@ -47,7 +47,8 @@ Built with **HTML, CSS, and JavaScript**, it features animated glowing effects, 
 
 ## 🌐 Live Demo
 
-🔗 **GitHub Pages:**
+🔗 **GitHub Pages:**  
+[https://gaurav-j-lad.github.io/Guess-My-Number-Game](https://gaurav-j-lad.github.io/Guess-My-Number-Game)
 
 ---
 
